@@ -1,0 +1,31 @@
+
+
+
+input[type=text].pd-klucz-api {
+    width: 350px;
+}
+
+.form-table th {
+    width: 120px;
+}
+
+
+.form-table td fieldset label {
+    margin: .75em 0 .5em!important;
+}
+
+.wp-core-ui select {
+    margin-top: -5px!important;
+}
+
+
+.form-table td {
+    padding: 10px 10px;
+}
+
+
+.regular-text {
+    width: 15em;
+}
+
+
